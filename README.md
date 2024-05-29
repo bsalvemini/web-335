@@ -1,2 +1,4 @@
-# web-335
-Repository for work in WEB 335
+# WEB 335 Introduction to NoSQL
+## Contributors
+- Richard Krasso
+- Brandon Salvemini
