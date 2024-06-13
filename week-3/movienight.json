@@ -1,0 +1,17 @@
+{
+  "viewer:": {
+    "_id": "1",
+    "firstName": "Daphne",
+    "lastName": "Harmon",
+    "movies": [
+      {"_id": 1, "movieName": "The Dark Knight Rises", "genre": "Action"},
+      {"_id": 2, "movieName": "Joker", "genre": "Thriller"},
+      {"_id": 3, "movieName": "The Flash", "genre": "Action"}
+    ],
+    "ratings": [
+      {"_id": 1, "ratingScore": 5.0, "viewerId": 1, "movieId": 1},
+      {"_id": 2, "ratingScore": 4.5, "viewerId": 1, "movieId": 2},
+      {"_id": 3, "ratingScore": 6.7, "viewerId": 1, "movieId": 3}
+    ]
+  }
+}
