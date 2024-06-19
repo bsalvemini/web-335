@@ -1,0 +1,15 @@
+{
+    "user": {
+      "_id": 1,
+      "firstName": "Chuck",
+      "lastName": "Greenwall",
+      "devices": [
+        {"_id": 1, "deviceName": "Galaxy S23", "deviceType": "Phone", "charger_id": 2},
+        {"_id": 2, "deviceName": "iPhone 14 Pro", "deviceType": "Phone", "charger_id": 1}
+      ],
+      "chargers": [
+        {"_id": 1, "chargerType": "USB-A", "voltage": "5V"},
+        {"_id": 2, "chargerType": "USB-C", "voltage": "5V"}
+      ]
+    }
+}
